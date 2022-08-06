@@ -8,4 +8,4 @@
 <h2>Branching Strategy</h2>
 <p>The following diagram indicates the branching strategy that I will be using for each project</p>
 <img src="branchstrat.jpg" alt="Branching strategy to be used within each project"/>
-<p>There will only be three branches because these projects are individual, in simple terms the Master branch indicates "the final product", and the Bugfix branch is where I will be fixing issues that might occur from the current code from the Master branch, the Feature branch is where I will add new code.</p>
+<p>There will only be three branches because these projects are individual, the Feature branch is where I will add new code and merge that code with the Master branch, in simple terms the Master branch indicates "the final product", the Bugfix branch is where I will be fixing issues that might occur from the current code from the Master branch, </p>
