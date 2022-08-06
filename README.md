@@ -6,4 +6,4 @@
 <br/>Project two will be named 'CMPG 323 Project 2-34494847’, project three will be named 'CMPG 323 Project 3-34494847’, project four will be named 'CMPG 323 Project 4-34494847’, project five will be named 'CMPG 323 Project 5-34494847’</p>
 
 <h2>Branching Strategy</h2>
-<img src="file://branchstrat.jpg" alt="Branching strategy to be used within each project"/>
+<img src="branchstrat.jpg" alt="Branching strategy to be used within each project"/>
