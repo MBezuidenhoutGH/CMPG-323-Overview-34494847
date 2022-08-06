@@ -2,7 +2,7 @@
 <p>CMPG 323 Project Overview of Student 34494847 at NWU Potchefstroom</p>
 
 <h2>Project Structure</h2>
-<p>For each project, a new repository will be created, meaning there will be five repositories by the end. Project two will be named 'CMPG 323 Project 2-34494847’, project three will be named 'CMPG 323 Project 3-34494847’, project four will be named 'CMPG 323 Project 4-34494847’, project five will be named 'CMPG 323 Project 5-34494847’</p>
+<p>For each project, a new repository will be created, meaning there will be five repositories by the end. Project two will be named 'CMPG 323 Project 2-34494847’, project three will be named 'CMPG 323 Project 3-34494847’, project four will be named 'CMPG 323 Project 4-34494847’ and project five will be named 'CMPG 323 Project 5-34494847’</p>
 
 <h2>Branching Strategy</h2>
 <p>The following diagram indicates the branching strategy that I will be using for each project</p>
