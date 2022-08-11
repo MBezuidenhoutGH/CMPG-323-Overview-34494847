@@ -15,8 +15,8 @@
 </p>
 
 <h2>Branching Strategy</h2>
-<p>There will only be three branches because these projects are individual, the Feature branch is where I will add new code and merge that code with the Master branch, in simple terms the Master branch indicates "the final product", the Bugfix branch is where I will be fixing issues that might occur from the current code from the Master branch.<br />
-The following diagram indicates the branching strategy that I will be using for each project</p>
+<p>There will only be three branches because these projects are individual, the Feature branch is where I will add new code and merge that code with the Master branch, in simple terms the Master branch indicates "the final product", the Bugfix branch is where I will be fixing issues that might occur from the current code from the Master branch.<br /> <br />
+The following diagram indicates the branching strategy that I will be using for each project:</p>
 <img src="branchstrat.jpg" alt="Branching strategy to be used within each project"/>
 
 <h2>Login Credentials and .gitignore</h2>
