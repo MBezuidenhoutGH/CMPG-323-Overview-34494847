@@ -1,5 +1,3 @@
-﻿<h1>CMPG-323-Overview-34494847</h1>
- 
 <h2>Project Structure</h2>
 <p>For each project, a new repository will be created, meaning there will be five completed repositories by the end of the semester. The links to each of the repositories are: 
     <ul>
