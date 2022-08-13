@@ -1,6 +1,5 @@
 ﻿<h1>CMPG-323-Overview-34494847</h1>
-<p>CMPG 323 Project Overview of Student 34494847 at NWU Potchefstroom</p>
-
+ 
 <h2>Project Structure</h2>
 <p>For each project, a new repository will be created, meaning there will be five completed repositories by the end of the semester. The links to each of the repositories are: 
     <ul>
