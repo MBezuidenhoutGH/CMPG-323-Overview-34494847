@@ -20,5 +20,5 @@ The following diagram indicates the branching strategy that I will be using for 
 <img src="branchstrat.jpg" alt="Branching strategy to be used within each project"/>
 
 <h2>Login Credentials and .gitignore</h2>
-<p>In regards to CMPG-323-Project-2-34494847, the connection string must contain the login credentials to use the database on my Azure server. The connection string will be stored in a .json file, but a .gitignore file will be used to not keep track of the .json file otherwise anyone can access my database which means there will be virtually no security.</p>
+<p>In regards to CMPG-323-Project-2-34494847, the connection string must contain the login credentials to use the database on my Azure server. The connection string will be stored in a .json file, but a .gitignore file will be used to not keep track of the .json file otherwise anyone can access my database which means there will be virtually no security. This is not exclusive to my project 2, wherever I need to store credentials and sensitive information, these files will also be included in my .gitignore file.</p>
 
