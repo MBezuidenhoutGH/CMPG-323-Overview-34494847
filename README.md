@@ -1,11 +1,11 @@
 <h2>Project Structure</h2>
 <p>For each project, a new repository will be created, meaning there will be five completed repositories by the end of the semester. The links to each of the repositories are: 
     <ul>
-        <li><a href="https://github.com/MarcelloClaud/CMPG-323-Overview-34494847">CMPG-323-Overview-34494847</a></li>
-        <li><a href="https://github.com/MarcelloClaud/CMPG-323-Project-2-34494847">CMPG-323-Project-2-34494847</a></li>
-        <li><a href="https://github.com/MarcelloClaud/CMPG-323-Project-3-34494847">CMPG-323-Project-3-34494847</a></li>
-        <li><a href="https://github.com/MarcelloClaud/CMPG-323-Project-4-34494847">CMPG-323-Project-4-34494847</a></li>
-        <li><a href="https://github.com/MarcelloClaud/CMPG-323-Project-5-34494847">CMPG-323-Project-5-34494847</a></li>
+        <li><a href="https://github.com/MBezuidenhoutGH/CMPG-323-Overview-34494847">CMPG-323-Overview-34494847</a></li>
+        <li><a href="https://github.com/MBezuidenhoutGH/CMPG-323-Project-2-34494847">CMPG-323-Project-2-34494847</a></li>
+        <li><a href="https://github.com/MBezuidenhoutGH/CMPG-323-Project-3-34494847">CMPG-323-Project-3-34494847</a></li>
+        <li><a href="https://github.com/MBezuidenhoutGH/CMPG-323-Project-4-34494847">CMPG-323-Project-4-34494847</a></li>
+        <li><a href="https://github.com/MBezuidenhoutGH/CMPG-323-Project-5-34494847">CMPG-323-Project-5-34494847</a></li>
     </ul>
     The following diagram indicates the project structure that I will be using for each project, all repositories refer back to one Kanban Guide (Project feature on Github) as follow:
     <img src="structurestrat.jpg" alt="Branching strategy to be used within each project"/>
