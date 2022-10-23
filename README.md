@@ -1,4 +1,4 @@
-<img src="/p2.png" alt="" /><img src="/p3.png" alt="" /> 
+<img src="P2.png" alt="" /><img src="P3.png" alt="" /> 
 <h2>Project Structure</h2>
 <p>For each project, a new repository will be created, meaning there will be five completed repositories by the end of the semester. The links to each of the repositories are: 
     <ul>
